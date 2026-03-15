@@ -94,9 +94,6 @@ Example:
 ```
 OPENROUTER_API_KEY=your_api_key_here
 ```
-
-⚠ Do not commit your actual API key to GitHub.
-
 ---
 
 ## Installation
@@ -104,7 +101,7 @@ OPENROUTER_API_KEY=your_api_key_here
 Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/Swetha-svvv/LLM-Prompt-Router.git
 cd llm-prompt-router
 ```
 
